@@ -1,4 +1,4 @@
-# react-bootstrap-table2
+# react-bootstrap-table-next-extended
 
 [![Build Status](https://travis-ci.org/react-bootstrap-table/react-bootstrap-table2.svg?branch=master)](https://travis-ci.org/react-bootstrap-table/react-bootstrap-table2)  
 Rebuild of [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table)
