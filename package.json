@@ -1,7 +1,6 @@
 {
   "name": "react-bootstrap-table-next-extended",
   "version": "0.0.1",
-  "private": true,
   "description": "Rebuilt for react-bootstrap-table",
   "main": "index.js",
   "scripts": {
