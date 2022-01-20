@@ -1,5 +1,5 @@
 {
-  "name": "react-bootstrap-table2",
+  "name": "react-bootstrap-table-next-extended",
   "version": "0.0.1",
   "private": true,
   "description": "Rebuilt for react-bootstrap-table",
@@ -19,26 +19,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-bootstrap-table/react-bootstrap-table2.git"
+    "url": "git+https://github.com/ydornala/react-bootstrap-table2"
   },
-  "author": "AllenFang",
+  "author": "Yeshwanth Dornala",
   "contributors": [
     {
-      "name": "Allen Fang",
-      "email": "ayu780129@hotmail.com",
-      "url": "https://github.com/AllenFang"
-    },
-    {
-      "name": "Chun-MingChen",
-      "email": "nick830314@gmail.com",
-      "url": "https://github.com/Chun-MingChen"
+      "name": "Yeshwanth Dornala",
+      "email": "yeshwanthdornala@gmail.com",
+      "url": "https://github.com/ydornala"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-bootstrap-table/react-bootstrap-table2/issues"
+    "url": "https://github.com/ydornala/react-bootstrap-table2/issues"
   },
-  "homepage": "https://github.com/react-bootstrap-table/react-bootstrap-table2#readme",
+  "homepage": "https://github.com/ydornala/react-bootstrap-table2#readme",
   "devDependencies": {
     "babel-cli": "6.26.0",
     "babel-core": "6.25.0",
